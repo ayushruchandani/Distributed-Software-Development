@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "LoginIDPasswordGeneratorWebApplicationClient"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-LoginIDPasswordGeneratorWebApplicationClient-99bd1618-ea58-4f00-b50a-c877563022e7;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
